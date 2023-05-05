@@ -1,0 +1,47 @@
+# python-assignment-Git:Git is a DevOps tool used for source code management. 
+
+GitHub:GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.
+
+#python assignment programs:
+1.To display the calender
+
+In this program , we import the calendar module. The built-in function month() inside the module takes in the year and the month and displays the calendar for that month of the year.
+
+2.multiply two matrices
+
+In this program, we have used nested for loops to iterate through each row and each column. We accumulate the sum of products in the result.
+
+3.Transpose of a matrix
+
+In this program, we have used nested for loops to iterate through each row and each column. At each point we place the X[i][j] element into result[j][i].
+
+4.find factorial of a number
+
+Here, the number whose factorial is to be found is stored in num, and we check if the number is negative, zero or positive using if...elif...else statement. If the number is positive, we use for loop and range() function to calculate the factorial.
+
+5.Solve a quadratic equation
+
+We have imported the cmath module to perform complex square root. First, we calculate the discriminant and then find the two solutions of the quadratic equation.
+
+6. To print Fibonacci series
+
+Here, we store the number of terms in nterms. We initialize the first term to 0 and the second term to 1.
+If the number of terms is more than 2, we use a while loop to find the next term in the sequence by adding the preceding two terms.  
+
+7.Check palindrome or not
+
+Using the method casefold() we make it suitable for caseless comparisons.
+We reverse the string using the built-in function reversed(). 
+
+8.swapping of two numbers
+
+we use the temp variable to hold the value of x temporarily. We then put the value of y in x and later temp in y. In this way, the values get exchanged.
+
+9.python slice string
+
+The slice() function returns a slice object that is used to slice any sequence (string, tuple, list, range, or bytes).
+
+10.To print half pyramid
+
+In the first loop, we iterate from i = 0 to i = rows.
+The second loop runs from j = 0 to i + 1. In each iteration of this loop, we print i + 1 number of * without a new line.
